@@ -1,0 +1,26 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [3][]{Outline0.1.1.4}{What is Object Detection?}{Outline0.1}% 2
+\BOOKMARK [3][]{Outline0.1.2.5}{The detector should be capable of ...}{Outline0.1}% 3
+\BOOKMARK [3][]{Outline0.1.3.6}{On top of that:}{Outline0.1}% 4
+\BOOKMARK [3][]{Outline0.1.4.7}{Some applications}{Outline0.1}% 5
+\BOOKMARK [2][]{Outline0.2}{How to detect objects in an image?}{}% 6
+\BOOKMARK [3][]{Outline0.2.1.10}{Example}{Outline0.2}% 7
+\BOOKMARK [3][]{Outline0.2.2.11}{Search at multiple locations}{Outline0.2}% 8
+\BOOKMARK [3][]{Outline0.2.3.13}{Search at multiple scales}{Outline0.2}% 9
+\BOOKMARK [3][]{Outline0.2.4.14}{Finding clues}{Outline0.2}% 10
+\BOOKMARK [3][]{Outline0.2.5.17}{Analyze the collected clues and decide!}{Outline0.2}% 11
+\BOOKMARK [2][]{Outline0.3}{Training the blackbox with Machine Learning}{}% 12
+\BOOKMARK [3][]{Outline0.3.1.19}{Joining Computer Vision and Machine Learning}{Outline0.3}% 13
+\BOOKMARK [3][]{Outline0.3.2.20}{Learning models 1}{Outline0.3}% 14
+\BOOKMARK [3][]{Outline0.3.3.21}{Learning models 2}{Outline0.3}% 15
+\BOOKMARK [3][]{Outline0.3.4.22}{Reaching the ceiling of model improvements}{Outline0.3}% 16
+\BOOKMARK [2][]{Outline0.4}{Deep learning}{}% 17
+\BOOKMARK [3][]{Outline0.4.1.24}{The come back of Neural Networks}{Outline0.4}% 18
+\BOOKMARK [3][]{Outline0.4.2.25}{CNN: The Convolutional Neural Network architecture}{Outline0.4}% 19
+\BOOKMARK [3][]{Outline0.4.3.26}{The ImageNet DCNN revolution}{Outline0.4}% 20
+\BOOKMARK [3][]{Outline0.4.4.27}{From classification to detection!}{Outline0.4}% 21
+\BOOKMARK [3][]{Outline0.4.5.28}{Residual learning: even bigger networks}{Outline0.4}% 22
+\BOOKMARK [3][]{Outline0.4.6.30}{Feature pyramid networks for multiscale}{Outline0.4}% 23
+\BOOKMARK [3][]{Outline0.4.7.31}{Alternative: the regression approach}{Outline0.4}% 24
+\BOOKMARK [3][]{Outline0.4.8.32}{RetinaNet: Reaching classification performance!}{Outline0.4}% 25
+\BOOKMARK [2][]{Outline0.5}{Conclusion}{}% 26
